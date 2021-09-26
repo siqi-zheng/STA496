@@ -1,4 +1,4 @@
-# Statistical Rethinking Chapter 1
+# Statistical Rethinking Chapter 1 Notes
 
 - [Statistical Rethinking Chapter 1](#statistical-rethinking-chapter-1)
   - [1.1 The Golem of Prague](#11-the-golem-of-prague)
