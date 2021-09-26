@@ -7,3 +7,7 @@ Important update will be added to README as well.
 
 * _BDA_
 * _Statistical Rethinking_
+
+## Important Updates
+
+September 26: Week 1.md final ver. is updated on GitHub.
