@@ -16,6 +16,8 @@ September 27: A list of first 5 articles are updated.
 
 September 28: Week 2.md final ver. is updated on GitHub.
 
+October 1: Week 3.md final ver. is updated on GitHub.
+
 ## List of articles that can be replicated with Bayesian Statistics (with codes)
 
 1. Skinner, B. T., & Doyle, W. R. (2021). Do civic returns to higher education differ across subpopulations? An analysis using propensity forests. Journal of Education Finance, 46(4), 519–562. https://www.muse.jhu.edu/article/796979     
